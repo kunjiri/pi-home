@@ -1,0 +1,5 @@
+#!/bin/bash
+#kills relay1.close.py first, and then starts relay1.open.py
+
+/usr/bin/killall relay1.close.py
+/usr/local/bin/relay1.open.py
