@@ -16,3 +16,6 @@ PROGRAM
 	relayn.open    -works similar to relayn.close 
 	relayn.open.py -wllll similar to relayn.close.py
 
+IDEA
+To use Pi for home automation. Control will be through Android.
+
